@@ -1,1 +1,1 @@
-{"versionCode": 43, "versionName": "7.5.5", "apkUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/paintwell-7.5.5.apk", "notes": "7.5.5: more reliable brush QR import — reads share cards, won't stamp the picture, and selects the new brush."}
+{"versionCode": 44, "versionName": "7.5.6", "apkUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/paintwell-7.5.6.apk", "notes": "7.5.6: imported QR brushes use their real settings and shapes, including double-lineart, instead of a generic round pen."}
