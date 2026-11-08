@@ -1,1 +1,1 @@
-{"versionCode": 50, "versionName": "7.6.4", "apkUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/paintwell-7.6.4.apk", "notes": "7.6.4: importing a picture is much faster."}
+{"versionCode": 51, "versionName": "7.6.5", "apkUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/paintwell-7.6.5.apk", "notes": "7.6.5: eraser cuts vector strokes instead of deleting the whole line; paint bucket works on vector layers."}
