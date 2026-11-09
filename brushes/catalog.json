@@ -5,7 +5,7 @@
     {
       "id": "pressure-inker",
       "name": "Pressure Inker",
-      "author": "Paintwell",
+      "author": "Paintnix",
       "description": "Crisp ink line that swells with pressure and tapers at both ends. Made for clean line art.",
       "packUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/pressure-inker.pwbrushes",
       "previewUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/pressure-inker.png",
@@ -17,7 +17,7 @@
     {
       "id": "soft-shader",
       "name": "Soft Shader",
-      "author": "Paintwell",
+      "author": "Paintnix",
       "description": "Feathered airy round for gentle shading and glows. Builds up slowly with pressure.",
       "packUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/soft-shader.pwbrushes",
       "previewUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/soft-shader.png",
@@ -29,7 +29,7 @@
     {
       "id": "canvas-weave",
       "name": "Canvas Weave",
-      "author": "Paintwell",
+      "author": "Paintnix",
       "description": "Paints with a woven canvas grain: crossing threads that show in every stroke. Best at size 20 and up.",
       "packUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/canvas-weave.pwbrushes",
       "previewUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/canvas-weave.png",
@@ -41,7 +41,7 @@
     {
       "id": "twin-liner",
       "name": "Twin Liner",
-      "author": "Paintwell",
+      "author": "Paintnix",
       "description": "Draws two parallel lines that follow your stroke, for outlined lettering and doubled line art.",
       "packUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/twin-liner.pwbrushes",
       "previewUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/twin-liner.png",
@@ -53,7 +53,7 @@
     {
       "id": "watercolor-wash",
       "name": "Watercolor Wash",
-      "author": "Paintwell",
+      "author": "Paintnix",
       "description": "Wet wash that blooms and granulates into the paper as it dries.",
       "packUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/watercolor-wash.pwbrushes",
       "previewUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/watercolor-wash.png",
@@ -65,7 +65,7 @@
     {
       "id": "oil-impasto",
       "name": "Oil Impasto",
-      "author": "Paintwell",
+      "author": "Paintnix",
       "description": "Thick oil paint that builds raised, lit strokes and blends with wet paint underneath.",
       "packUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/oil-impasto.pwbrushes",
       "previewUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/oil-impasto.png",
@@ -77,7 +77,7 @@
     {
       "id": "stipple-spray",
       "name": "Stipple Spray",
-      "author": "Paintwell",
+      "author": "Paintnix",
       "description": "Scatters irregular dots for stipple shading, sparkles and rough texture.",
       "packUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/stipple-spray.pwbrushes",
       "previewUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/stipple-spray.png",
@@ -89,7 +89,7 @@
     {
       "id": "chisel-marker",
       "name": "Chisel Marker",
-      "author": "Paintwell",
+      "author": "Paintnix",
       "description": "Flat slanted nib for calligraphic marker strokes: thick on the downstroke, thin across.",
       "packUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/chisel-marker.pwbrushes",
       "previewUrl": "https://raw.githubusercontent.com/mlomba04/paintwell-updates/main/brushes/chisel-marker.png",
